@@ -1,0 +1,7 @@
+#
+# PageTS for Terminal8Starter
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:terminal8starter/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:terminal8starter/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:terminal8starter/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:terminal8starter/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
